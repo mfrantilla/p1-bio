@@ -1,0 +1,27 @@
+body {
+	background: url("../img/bg.png");
+}
+
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+
+.nav, .topbox {
+	background: #f3f3f3;
+}
+
+.nav {
+ height: 55px;
+ font-family: 'Gafata', sans-serif;
+ font-size: 25px;
+ padding-top: 20px;
+ text-align: center;
+
+}
+
+
+.topbox {
+	font-family: georgia, sans-serif;
