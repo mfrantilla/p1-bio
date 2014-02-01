@@ -3,10 +3,29 @@ body {
 }
 
 
-a {
+a:link {
 	text-decoration: none;
 	color: black;
 }
+
+a:visited {
+	text-decoration: none;
+	color:black;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #29879e; 
+}
+
+a:active {
+	text-decoration: underline;
+	color: #29879e;
+}
+
+
+
+
 
 
 .nav, .topbox {
