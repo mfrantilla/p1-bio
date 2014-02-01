@@ -5,10 +5,6 @@ body {
 h1 {
 	font-family: 'Gafata', sans-serif;
 	font-size: 50px;
-	position: relative;
-	top: -260px;
-	left: 300px;
-
 
 }
 
@@ -16,12 +12,12 @@ img {
 	border: 7px solid #29879e;
 	border-radius: 200px;
 	margin: 20px 0px 0px 40px;
-
 }
 
-
-p {
-
+ul {
+	list-style: none;
+	line-height: 20px;
+	position: left;
 }
 
 a:link {
@@ -57,6 +53,13 @@ a:active {
  font-size: 25px;
  padding-top: 20px;
  text-align: center;
+
+}
+
+.info {
+	position: relative;
+	top: -260px;
+	left: 300px;
 
 }
 
