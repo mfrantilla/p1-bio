@@ -22,6 +22,7 @@ ul {
 	list-style: none;
 	line-height: 20px;
 	position: left;
+	line-height: 1.4em;
 }
 
 a:link {
@@ -86,5 +87,17 @@ a:active {
 	position: relative;
 	top: -240px;
 	margin-left: 40px;
-	width: 350px;
+	width: 250px;
+	line-height:1.4em;
+}
+
+.footnote {
+  font-size: 12px;
+  font-style: italic;
+}
+
+.superscript {
+	position: relative;
+	top:-0.5em;
+	font-size: 80%;
 }
