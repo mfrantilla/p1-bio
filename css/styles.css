@@ -75,7 +75,7 @@ a:active {
 .info {
 	position: relative;
 	top: -260px;
-	left: 300px;
+	left: 400px;
 	overflow: hidden;
 
 }
@@ -87,25 +87,29 @@ a:active {
 	min-width: 360px;
 }
 .firstparagraph {
-	max-width: 650px;
+	max-width: 550px;
 	min-width: 350px;
 	line-height: 1.4em;
 }
 
-.secondparagraph {
+.inspiration {
 	position: relative;
-	top: -240px;
+	top: -580px;
 	margin-left: 40px;
 	width: 250px;
 	line-height:1.4em;
+	border-right:
 }
 
-.inspiration {
+/*.inspiration {
 	position: relative;
 	top: -640px;
 	margin-left: 450px;
 	width: 350px;
 }
+
+ Changing Things */ 
+
 
 .footnote {
   font-size: 12px;
