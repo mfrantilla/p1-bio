@@ -3,7 +3,7 @@ body {
 
 }
 
-h1, h2, h3 {
+h1, h2, h3, h4 {
 	font-family: 'Gafata', sans-serif;
 	font-size: 50px;
 }
@@ -93,7 +93,7 @@ a:active {
 
 .inspiration {
 	position: relative;
-	top: -590px;
+	top: -550px;
 	margin-left: 40px;
 	width: 250px;
 	line-height:1.4em;
